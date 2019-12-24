@@ -1,0 +1,14 @@
+{
+	"classifier_hyperparameters":{
+		"D": 3,
+		"F1": 12,
+		"dropoutRate1": 0.52,
+		"dropoutRate2": 0.36,
+		"lr": 0.00066,
+		"norm_rate": 0.2756199103746462
+	},
+	"max_epochs":200,
+	"resampled_to": 369,
+	"path_to_models_dir": "./res",
+	"data_sample_rate": 500
+}
